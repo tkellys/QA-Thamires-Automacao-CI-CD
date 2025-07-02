@@ -1,5 +1,5 @@
 ﻿## Sobre
-Repositório do teste para Sevn Tecnologia: Automação da página Home do site:https://qualeagiria.com.br/ 
+Repositório do teste para Sevn Tecnologia: Automação da página Home do site: https://qualeagiria.com.br/ 
 Inclusão de Workflow de testes contínuos em Cypress no Github Actions
 
 ## Stacks
