@@ -23,5 +23,5 @@ jobs:
         group: Testes de Interface no Electron
         spec: ${{ github.event.inputs.spec }}
       env:
-        CYPRESS_RECORD_KEY: 134156fd-6e6c-4a5c-93ea-7e4c119fd7fe
+        CYPRESS_RECORD_KEY: ${{secrets.CYPRESS_RECORD_KEY}}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
