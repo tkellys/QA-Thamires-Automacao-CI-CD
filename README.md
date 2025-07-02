@@ -21,9 +21,12 @@ Executar testes em Headless
 yarn cypress run / npx cypress run
 ```
 ## Rodando pipelene de testes no GitHub Actions
+```
 Ir na aba Actions
 ```
+```
 Selecionar workflow Cypress Cloud Relatorio
+```
 ```
 Clicar em Run Workflow
 ```
