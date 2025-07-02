@@ -7,7 +7,7 @@ Cypress
 Javascript
 Cypress Dashboard
 
-## Rodando na maquina local
+## Rodando na máquina local
 Clonar o repositório, instalar as dependências
 ```
 yarn / npm install
