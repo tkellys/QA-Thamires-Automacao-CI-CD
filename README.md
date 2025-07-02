@@ -31,5 +31,5 @@ Selecionar workflow Cypress Cloud Relatorio
 Clicar em Run Workflow
 ```
 ## Acessando relatório na nuvem
-link do relatorio: [Cypress Cloud]([https://www.google.com](https://cloud.cypress.io/projects/pjgihb/runs/1/overview?roarHideRunsWithDiffGroupsAndTags=1
+Link do relatório: [Cypress Cloud](https://cloud.cypress.io/projects/pjgihb/runs/1/overview?roarHideRunsWithDiffGroupsAndTags=1
 )
