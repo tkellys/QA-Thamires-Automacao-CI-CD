@@ -3,8 +3,9 @@ Repositório do teste para Sevn Tecnologia: Automação da página Home do site:
 Inclusão de Workflow de testes contínuos em Cypress no Github Actions
 
 ## Stacks
-Cypress
-Javascript
+Cypress,
+Javascript,
+Node,
 Cypress Dashboard
 
 ## Rodando na máquina local
